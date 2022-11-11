@@ -1,3 +1,4 @@
+//should add comments to each function and associated elements
 document.getElementById('issueInputForm').addEventListener('submit', saveIssue)
 
 function fetchIssues() {
